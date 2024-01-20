@@ -1,2 +1,4 @@
 # hrms-restapi-springboot
-A simple HRMS Rest-API made with SpringBoot and Hibernate JPA that performs Rest CRUD operations with a simple employee database.   
+A simple Human Resource management(HRMS) Rest-API made with SpringBoot and Hibernate JPA, that performs Rest CRUD operations with a simple SQL database of employees.
+
+Note- Before running this Maven project, it is required to run the SQL scripts in MySQLWorkbench (or other sql-dbms-tool). Scripts present in the 'SQL scripts' folder.
